@@ -1,0 +1,4 @@
+Carpeta aggregates
+Carpeta commands
+Carpeta Queries
+Carpeta ValueObjects
