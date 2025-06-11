@@ -1,0 +1,9 @@
+C:\Users\Mondo\Documents\GitHub\backend\FuelTracks.API\obj\Debug\net9.0\FuelTracks.API.csproj.AssemblyReference.cache
+C:\Users\Mondo\Documents\GitHub\backend\FuelTracks.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Mondo\Documents\GitHub\backend\FuelTracks.API\obj\Debug\net9.0\FuelTracks.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mondo\Documents\GitHub\backend\FuelTracks.API\obj\Debug\net9.0\FuelTracks.API.AssemblyInfoInputs.cache
+C:\Users\Mondo\Documents\GitHub\backend\FuelTracks.API\obj\Debug\net9.0\FuelTracks.API.AssemblyInfo.cs
+C:\Users\Mondo\Documents\GitHub\backend\FuelTracks.API\obj\Debug\net9.0\FuelTracks.API.csproj.CoreCompileInputs.cache
+C:\Users\Mondo\Documents\GitHub\backend\FuelTracks.API\obj\Debug\net9.0\FuelTracks.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mondo\Documents\GitHub\backend\FuelTracks.API\obj\Debug\net9.0\FuelTracks.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mondo\Documents\GitHub\backend\FuelTracks.API\obj\Debug\net9.0\FuelTracks.API.sourcelink.json
