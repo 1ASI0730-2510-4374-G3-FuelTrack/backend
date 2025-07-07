@@ -1,5 +1,0 @@
-Acá estará:
-Carpeta con aggregates de Order (Order, Payment, etc)
-Carpeta commands
-Carpeta Queries
-Carpeta  ValueObjects (OrderStatus, Fueltype)
